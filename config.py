@@ -1,3 +1,3 @@
-TOKEN = "5695491193:AAE71SRifJ3SVmT8xOAOOLFxKqTgSHk509w"
+TOKEN = ""
 
-admins_id = ['1685915505']
+admins_id = ['']
